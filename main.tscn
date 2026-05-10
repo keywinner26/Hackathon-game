@@ -6,6 +6,7 @@
 [ext_resource type="Texture2D" uid="uid://brc8hd2r3k8xn" path="res://OIP.jpg" id="4_1bvp3"]
 [ext_resource type="Texture2D" uid="uid://chqb2e71uqy8o" path="res://R.jpg" id="5_lquwl"]
 [ext_resource type="Texture2D" uid="uid://bvvnxiuu6sswt" path="res://ajpg.jpg" id="6_7mycd"]
+[ext_resource type="Texture2D" uid="uid://btlh10m4evip4" path="res://R (1).jpg" id="7_272bh"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_h2yge"]
 size = Vector2(97, 97)
@@ -307,3 +308,8 @@ texture = ExtResource("5_lquwl")
 position = Vector2(5100, 52)
 scale = Vector2(1.5, 1.5)
 texture = ExtResource("6_7mycd")
+
+[node name="R(1)" type="Sprite2D" parent="." unique_id=796033494]
+position = Vector2(7980, 52)
+scale = Vector2(1.5, 1.5)
+texture = ExtResource("7_272bh")
